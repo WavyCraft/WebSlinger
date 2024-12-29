@@ -1,0 +1,5 @@
+name: WebSlinger
+version: 1.0.0
+author: WavyCraftNetwork
+api: 5.0.0
+main: wavycraft\webslinger\Loader
